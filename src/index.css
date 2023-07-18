@@ -24,7 +24,7 @@ body {
 }
 
 .navbar h1 {
-  color: #f1356d;
+  color:rgb(2, 154, 249);
 }
 
 .navbar .link {
@@ -38,7 +38,7 @@ body {
 }
 
 .navbar a:hover {
-  color:#f1356d;
+  color:rgb(2, 154, 249);
 }
 
 .content {
@@ -59,7 +59,7 @@ body {
 
 .blog-preview h2 {
   font-size: 20px;
-  color: #f1356d;
+  color:rgb(2, 154, 249);
   margin-bottom: 8px;
 
 }
@@ -79,7 +79,7 @@ body {
 
   .create h2{
     font-size: 20px;
-    color:#f1356d;
+    color:rgb(2, 154, 249);
     margin-bottom: 30px;
   }
 
@@ -94,10 +94,33 @@ body {
 
   .create button{
 
-    background-color: #f1356d;
+    background-color:rgb(2, 154, 249);
     color:#fff;
     border:0;
     padding: 8px;
     border-radius:8px;
     cursor:pointer;
+  }
+
+  .blog-preview a {
+    text-decoration: none;
+  }
+
+  .blog-details h2{
+    font-size: 20px;
+    color:rgb(2, 154, 249);
+    margin-bottom: 10px;
+  }
+
+  .blog-details div{
+    margin:20px 0;
+  }
+
+  .blog-details button{
+    background-color: rgb(2, 154, 249);
+    color:#fff;
+    border:0;
+    padding:8px;
+    border-radius: 8px;
+    cursor: pointer;
   }

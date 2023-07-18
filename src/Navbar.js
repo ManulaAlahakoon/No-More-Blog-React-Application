@@ -8,7 +8,7 @@ const Navbar = () => {
                 <Link to="/">Home</Link>
                 <Link to="/create" style={{
                     color: "white",
-                    backgroundColor: '#f1356d',
+                    backgroundColor: 'rgb(2, 154, 249)',
                     borderRadius: '8px'
                 }}>New Blog</Link>
             </div>
